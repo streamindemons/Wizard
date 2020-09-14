@@ -1,6 +1,6 @@
 name="Streamin Deamons Build"
-version="1.1"
-url="https://archive.org/download/streamin-demons-build_202009/StreaminDemonsBuild.zip"
+version="1.2"
+url="https://www.dropbox.com/s/rfc9ikk92vcfkvv/Streamin%2527%2BDeamons%2BBuild.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.0"
