@@ -1,6 +1,6 @@
 name="Streamin Demons Build"
 version="1.3"
-url="https://archive.org/download/streamin-demons-build_20200914/Streamin%2BDemons%2BBuild.zip"
+url="https://archive.org/download/streamin-deamons-build/Streamin%2BDeamons%2BBuild.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
