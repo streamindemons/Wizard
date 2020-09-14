@@ -1,6 +1,6 @@
 1
 |||
-Odyssey Update Notifications.
+Streamin Deamons Update Notifications.
 
 NOTICE: 
 Be sure to set up Trakt/RealDebrid under the setup widget in settings.
