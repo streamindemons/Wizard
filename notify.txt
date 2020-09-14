@@ -1,0 +1,10 @@
+1
+|||
+Odyssey Update Notifications.
+
+NOTICE: 
+Be sure to set up Trakt/RealDebrid under the setup widget in settings.
+This only needs to be done once, as the wizard will save logins in future updates.
+
+Changelog
+Ummm....
