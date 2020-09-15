@@ -1,5 +1,5 @@
 name="Streamin Demons Build"
-version="1.4"
+version="1.5"
 url="https://archive.org/download/streamin-demon/Streamin%2BDemon.zip"
 minor="http://"
 gui="http://"
