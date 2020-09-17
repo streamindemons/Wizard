@@ -1,6 +1,6 @@
 name="Streamin Demons Build"
-version="1.7"
-url="https://cloud.chronixxx.net/s/6DGxwaT9LCMe8CB/download"
+version="1.8"
+url="https://cloud.chronixxx.net/s/y43Qz8or5DftGxM/download"
 minor="http://"
 gui="http://"
 kodi="18.0"
