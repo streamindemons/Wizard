@@ -1,6 +1,6 @@
 name="Streamin Demons Build"
 version="1.8"
-url="https://cloud.chronixxx.net/s/y43Qz8or5DftGxM/download"
+url="https://reap-er.xyz/downloads/kodi_Builds/Steamin_Demons/Streamin_Demons_v1.8.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
@@ -14,7 +14,7 @@ description="This is the Streamin Demons build. It requires RealDebrid and Trakt
 
 name="Streamin Demons Lite"
 version="1.0"
-url="https://cloud.chronixxx.net/s/HgpN9Bf67CJ36TR/download"
+url="https://reap-er.xyz/downloads/kodi_Builds/Low_End/Low_End_Kodi_Build_v1.2.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
