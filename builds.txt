@@ -28,8 +28,8 @@ description="This is the Streamin Demons lite build. It requires RealDebrid and 
 
 
 name="Test1"
-version="0.3"
-url="https://www.dropbox.com/s/iwgycyhjclgf5p8/Bingie%2BBuild.zip?dl=1"
+version="0.4"
+url="https://www.dropbox.com/s/p9asrq69y4ewl9q/Bingie%2BMod%2BBuild.zip?dl=1"
 minor="http://"
 gui="http://"
 kodi="18.0"
