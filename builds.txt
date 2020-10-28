@@ -1,6 +1,6 @@
 name="Streamin Demons Build"
-version="1.8"
-url="https://reap-er.xyz/dl/kodi_Builds/Steamin_Demons/Streamin_Demons_v1.8.zip"
+version="1.9"
+url="https://reap-er.xyz/cloud/data/Turkleton01/files/public/AH+v1.9.zip"
 minor="http://"
 gui="http://"
 kodi="18.0"
