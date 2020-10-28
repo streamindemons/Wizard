@@ -28,7 +28,7 @@ description="This is the Streamin Demons lite build. It requires RealDebrid and 
 
 
 name="Test1"
-version="0.4"
+version="1.5"
 url="https://reap-er.xyz/cloud/data/Turkleton01/files/public/Titan_Bingie_1.5.zip"
 minor="http://"
 gui="http://"
