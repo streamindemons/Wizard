@@ -27,7 +27,7 @@ info="http://"
 description="This is the Streamin Demons lite build. It requires RealDebrid and Trakt."
 
 
-name="Test1"
+name="Bingie"
 version="1.11"
 url="https://reap-er.xyz/cloud/data/Pence/files/public/BingieMod_v1.11.zip"
 minor="http://"
