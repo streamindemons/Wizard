@@ -28,7 +28,7 @@ description="This is the Streamin Demons lite build. It requires RealDebrid and 
 
 
 name="Bingie"
-version="1.11"
+version="1.12"
 url="https://reap-er.xyz/cloud/data/Turkleton01/files/public/Bingie%201.12.zip"
 minor="http://"
 gui="http://"
