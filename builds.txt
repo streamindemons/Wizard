@@ -39,4 +39,4 @@ fanart="https://github.com/streamindemons/Wizard/blob/master/fanart.jpg?raw=true
 preview="http://"
 adult="no"
 info="http://"
-description="Test build, do not use."
+description="This is the Bingie build. It requires RealDebrid and Trakt."
