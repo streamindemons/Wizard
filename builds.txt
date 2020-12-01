@@ -42,8 +42,8 @@ info="http://"
 description="This is the Bingie build. It requires RealDebrid and Trakt."
 
 
-name="Test Build DO NOT INSTALL"
-version="1.0"
+name="Test Build"
+version="1.1"
 url="https://reap-er.xyz/cloud/data/Turkleton01/files/public/AuraMod%20Build%202.zip"
 minor="http://"
 gui="http://"
