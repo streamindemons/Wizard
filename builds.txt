@@ -10,4 +10,5 @@ fanart="https://github.com/streamindemons/Wizard/blob/master/fanart.jpg?raw=true
 preview="http://"
 adult="no"
 info="http://"
-description="Beta build don't install"
+description="Still in testing"
+
