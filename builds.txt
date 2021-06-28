@@ -1,6 +1,6 @@
 name="Titan Bingie Mod Kodi 19"
 version="1.0"
-url="https://github.com/streamindemons/SDMC/releases/download/v1.0/Titan.Bingie.Mod.Build.SDMC.zip"
+url="https://github.com/streamindemons/SDMC-Builds/releases/download/v1.0.0/Titan.Bingie.Mod.Build.SDMC.zip"
 minor="http://"
 gui="http://"
 kodi="19.1"
