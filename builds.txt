@@ -12,7 +12,7 @@ adult="no"
 info="http://"
 description="FLIX Style Skin"
 
-name="TEST DO NOT USE"
+name="DO NOT USE"
 version="1.0"
 url="https://cloud.reap-er.xyz/s/pZidWdiJAFcsRQ8/download"
 minor="http://"
