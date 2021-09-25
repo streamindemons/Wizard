@@ -27,7 +27,7 @@ info="http://"
 description="do not use!"
 
 name="Fen Build"
-version="1.1"
+version="1.2"
 url="https://github.com/streamindemons/SDMC-Builds-2/releases/download/v1.1.0/Fen.Build.zip"
 minor="http://"
 gui="http://"
