@@ -10,7 +10,7 @@ fanart="https://github.com/streamindemons/Wizard/blob/master/fanart.jpg?raw=true
 preview="http://"
 adult="no"
 info="http://"
-description="FLIX Style Skin"
+description="FLIX Style Skin. Hi u/lifeofry4n52. This IS NOT KODIFLIX. This is a build made by Surgeon Turk."
 
 name="DO NOT USE"
 version="1.0"
